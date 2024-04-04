@@ -1,0 +1,1 @@
+# serverless-hexagonal-architecture
